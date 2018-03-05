@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER hs.harish@in.ibm.com
+MAINTAINER harishkumarhs1@gmail.com
 
 RUN apt-get update
 
